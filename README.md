@@ -5,3 +5,4 @@ new line added---conflict bana hai
 4th line added
 5th line conflict wala
 6th line added
+7th line added for pull requests
